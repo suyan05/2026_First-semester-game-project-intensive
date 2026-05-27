@@ -1829,7 +1829,7 @@
     "m_ObjectId": "6372cce00370489cab05c4f973cf3a5b",
     "m_Title": "Calculate Clip-Space Position",
     "m_Position": {
-        "x": -1258.0001220703125,
+        "x": -1258.0,
         "y": -72.0
     }
 }
@@ -2244,8 +2244,8 @@
     "m_ObjectId": "7ffe491207e140458c86f7084bc0fb1e",
     "m_Title": "MainTextureSample",
     "m_Position": {
-        "x": 391.0000915527344,
-        "y": 334.99993896484377
+        "x": 391.0,
+        "y": 335.0
     }
 }
 
@@ -3695,8 +3695,8 @@
     "m_ObjectId": "f432f37d4e1241d7be64f1ba842c6a76",
     "m_Title": "Calculate Bounding Box",
     "m_Position": {
-        "x": 761.0000610351563,
-        "y": -431.0000305175781
+        "x": 761.0,
+        "y": -431.0
     }
 }
 
@@ -3744,7 +3744,7 @@
     "m_ObjectId": "f9598fed19db4140b398e6a695c7d578",
     "m_Title": "SP",
     "m_Position": {
-        "x": -688.0000610351563,
+        "x": -688.0,
         "y": -254.0
     }
 }
